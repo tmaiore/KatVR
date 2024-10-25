@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathZone
+  - PuzzlePiece1
+  - PuzzlePiece2
+  - PuzzlePiece3
+  - PuzzlePiece4
+  - PuzzlePiece5
+  - PuzzlePiece6
+  - PuzzlePiece7
+  - PuzzlePiece8
+  - PuzzlePiece9
+  - PuzzlePanel1
+  - PuzzlePanel2
+  - PuzzlePanel3
+  - PuzzlePanel4
+  - PuzzlePanel5
+  - PuzzlePanel6
+  - PuzzlePanel7
+  - PuzzlePanel8
+  - PuzzlePanel9
+  - Correcte
+  - Faux
+  - ToActivate
+  - OpenDoor
+  - EndDoor
+  - Digicode
+  - Parcours
+  - Ball
+  - PuzzleModule
+  - Surface
+  - PreExit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Cube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
